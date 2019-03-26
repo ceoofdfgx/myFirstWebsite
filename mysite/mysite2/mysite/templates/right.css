@@ -1,0 +1,30 @@
+    div.related{
+        margin-bottom: 1.2em;
+        padding:0.5em 0;
+        border-top:1px solid #ccc;
+        margin-top:0.5em;
+    }
+    div.related a:hover{
+        color:#FCFCFC;
+    }
+    .right{
+        display:inline;
+    }
+    .inline-search{
+        display:inline;
+    }
+    form.inline-search input{
+        display:inline;
+        font-family:'Lucida Grande',Arial,sans-serif;
+        border:1px solid #999999;
+        font-size:smaller;
+        border-radius:3px;
+    }
+    form.inline-search input[type="submit"]{
+        width:40px;
+    }
+    div.body h3{
+        margin:0;
+        border:0;
+        padding:0.3em 0;
+    }
